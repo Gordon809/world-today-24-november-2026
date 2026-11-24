@@ -1,8 +1,8 @@
 # The World Today — 24 November 2026
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-red)](https://make.fun)
-[![date](https://img.shields.io/badge/date-24%20November%202026-red)](https://make.fun/c/news-image-20261124)
-[![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![make.fun · news-image-20261124](https://make.fun/badge/news-image-20261124.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![rank](https://make.fun/badge/news-image-20261124/Gordon809/world-today-24-november-2026/rank.svg)](https://make.fun/bounty/news-image-20261124/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
+[![reward](https://make.fun/badge/news-image-20261124/Gordon809/world-today-24-november-2026/reward.svg)](https://make.fun/bounty/news-image-20261124?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261124)
 
 A BREAKING NEWS broadcast frame summing up Tuesday 24 November 2026:
 Iran says three tankers hit naval mines in the Strait of Hormuz, plus the
